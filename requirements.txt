@@ -1,0 +1,8 @@
+streamlit==1.38.0
+pandas
+geopandas
+folium
+shapely
+streamlit-folium
+plotly
+gdown
